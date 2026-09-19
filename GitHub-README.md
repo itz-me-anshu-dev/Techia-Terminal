@@ -2,14 +2,7 @@
 
 # TECHIA TERMINAL
 
-```text
-████████╗███████╗░█████╗░██╗░░██╗██╗░█████╗░  ████████╗███████╗██████╗░███╗░░░███╗██╗███╗░░██╗░█████╗░██╗░░░░░
-╚══██╔══╝██╔════╝██╔══██╗██║░░██║██║██╔══██╗  ╚══██╔══╝██╔════╝██╔══██╗████╗░████║██║████╗░██║██╔══██╗██║░░░░░
-░░░██║░░░█████╗░░██║░░╚═╝███████║██║███████║  ░░░██║░░░█████╗░░██████╔╝██╔████╔██║██║██╔██╗██║███████║██║░░░░░
-░░░██║░░░██╔══╝░░██║░░██╗██╔══██║██║██╔══██║  ░░░██║░░░██╔══╝░░██╔══██╗██║╚██╔╝██║██║██║╚████║██╔══██║██║░░░░░
-░░░██║░░░███████╗╚█████╔╝██║░░██║██║██║░░██║  ░░░██║░░░███████╗██║░░██║██║░╚═╝░██║██║██║░╚███║██║░░██║███████╗
-░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚═╝  ░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚══════╝
-```
+<img width="985" height="161" alt="image" src="https://github.com/user-attachments/assets/037882c4-8652-4662-967d-6f058b0dc997" />
 
 **Your private terminal. Your machines. One login.**
 
@@ -36,23 +29,8 @@ no admin needed.
 
 ## 🖥️ Dashboard (what you see on launch)
 
-```text
-┌─ TECHIA ──────────────────────────────────────────────── v1.5.0 ─┐
-│  ████████╗███████╗ ... (full logo on wide terminals)              │
-│                                                                   │
-│  SYSTEM CORE                                                      │
-│  OS ......... Windows 11        CPU ......... 12% · live           │
-│  HOST ....... MY-PC             MEMORY ...... 8.1 GB               │
-│                                                                   │
-│  ► SYSTEM        CPU 12% · MEM 41%                                │
-│  ► ACCOUNT       you · A to manage                                │
-│  ► REMOTE / RDP  1 PAIRED                                         │
-│  ► VAULT         4 LOGINS                                         │
-│  ► DOCTOR        HEALTHY                                          │
-│                                                                   │
-│  [↑↓] move · [Enter] open · [A] account · [?] help · [Q] quit     │
-└───────────────────────────────────────────────────────────────────┘
-```
+<img width="1347" height="745" alt="image" src="https://github.com/user-attachments/assets/2070fd53-cf6e-4ba5-bee7-04daa6e30623" />
+
 
 > 📸 **Screenshots:** drop real captures in `docs/` as `docs/dashboard.png`
 > and `docs/remote.png`, then replace this box with
