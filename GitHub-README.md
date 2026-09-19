@@ -32,10 +32,7 @@ no admin needed.
 <img width="1347" height="745" alt="image" src="https://github.com/user-attachments/assets/2070fd53-cf6e-4ba5-bee7-04daa6e30623" />
 
 
-> 📸 **Screenshots:** drop real captures in `docs/` as `docs/dashboard.png`
-> and `docs/remote.png`, then replace this box with
-> `![dashboard](docs/dashboard.png)`. (Tip: on Windows, `Win+Shift+S`
-> while `techia` runs — the logo looks best in a maximized terminal.)
+> 📸 **Screenshots:** 
 
 ## 🚀 Install — Desktop (Windows)
 
